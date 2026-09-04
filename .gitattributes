@@ -1,0 +1,3 @@
+# BHT technical-custody repository
+# Preserve committed bytes exactly; disable Git text/EOL normalization.
+* -text

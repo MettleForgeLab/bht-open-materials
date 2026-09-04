@@ -1,0 +1,9 @@
+# Local operating-system and editor residue
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+*.swo
+~$*
