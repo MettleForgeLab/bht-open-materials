@@ -1,6 +1,6 @@
 # BHT EPUB 1 — Open Operational Materials
 
-This installation candidate carries the exact initial open-material scope authorized by Porter Winston for *Now You Can Do Big Hard Things*.
+This repository carries the accepted BHT EPUB 1 open operational-source scope authorized by Porter Winston for *Now You Can Do Big Hard Things*. The predecessor source state remains immutable at tag `bht-epub-1`; the current accepted successor state is fixed at tag `bht-epub-1-source-002`.
 
 ## Scope
 
@@ -8,7 +8,7 @@ This installation candidate carries the exact initial open-material scope author
 - 5 accepted fixed written source snapshots
 - Porter Winston as licensor
 - CC BY 4.0 authorized for application
-- no accepted operational source byte modified
+- licensed membership remains 94 operational source files; four cardinal `instructions.txt` files advance in accepted successor state 002
 
 The scope is governed by `OPEN_MATERIALS.csv` plus each file's SHA-256. A filename alone does not establish identity.
 

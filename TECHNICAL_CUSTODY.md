@@ -29,3 +29,11 @@ Repository infrastructure and supporting records, including this file, `.gitattr
 Mettle Forge Lab public source pages carry the explanatory and publication relationship. GitHub carries technical custody, history, fixed release identity, and file inspection.
 
 Repository: `https://github.com/MettleForgeLab/bht-open-materials`
+
+## Accepted successor source state 002
+
+The initial immutable BHT EPUB 1 source state remains fixed at tag `bht-epub-1`.
+
+The accepted cardinal successor source state is fixed at tag `bht-epub-1-source-002` and its exact commit SHA.
+
+The licensed membership remains 94 operational source files. Four cardinal `instructions.txt` bytes changed under Porter-authorized successor identities; predecessor identities remain immutable lineage.
