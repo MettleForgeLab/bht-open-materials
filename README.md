@@ -2,6 +2,35 @@
 
 This installation candidate carries the exact initial open-material scope authorized by Porter Winston for *Now You Can Do Big Hard Things*.
 
+## Published source release navigation
+
+Two fixed BHT EPUB 1 source states are available publicly:
+
+- [BHT EPUB 1 - Fixed Open-Materials Snapshot](https://github.com/MettleForgeLab/bht-open-materials/releases/tag/bht-epub-1)
+  preserves the original fixed operational source snapshot.
+
+- [BHT EPUB 1 Source Successor State 002](https://github.com/MettleForgeLab/bht-open-materials/releases/tag/bht-epub-1-source-002)
+  preserves the accepted successor source state.
+
+The licensed operational source membership remains bounded to the
+94 files established by the applicable manifests and checksums.
+Each fixed release has its own tag, commit identity, and custody records.
+
+For exact historical source identity, use the fixed release records
+rather than assuming that the current `main` branch identifies a
+particular publication snapshot.
+
+The original installation-status statement below is retained as
+a record of the earlier publication-preparation stage. It does not
+mean that the two GitHub releases remain unpublished.
+
+Publication of a GitHub release also does not, by itself, establish
+that every separate downstream public-application step was completed.
+
+For fixed archive identity, consult the project-controlled release
+assets and recorded checksums. GitHub-generated source archives are
+convenience downloads, not automatically the same custody artifacts.
+
 ## Scope
 
 - 94 operational source files
